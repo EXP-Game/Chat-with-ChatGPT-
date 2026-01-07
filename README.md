@@ -8,6 +8,6 @@ Super easy:
 - Use 5.1 Instant and you should be all set!
 
 Done some testing to refine the instructions, so it should be pretty much hassle free.
-You can use parentheses for Out Of Character conversation (if you want to alter the scenario or sexting partner).
+You can use parentheses for Out Of Character (OOC) conversation (if you want to alter the scenario or sexting partner).
 - EX 1: (Please use more vulgar and direct language)
 - EX 2: (I prefer blondes, could you have her be blond and slim)
